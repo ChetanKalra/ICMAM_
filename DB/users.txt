@@ -1,0 +1,109 @@
+db.users.insert({
+	"_id" : ObjectId("58d1969bd69963c084b7acdb"),
+	"Username" : "Misa",
+	"FirstName" : "Shailey",
+	"LastName" : "Kadam",
+	"Password" : "1234",
+	"Email" : "shaileykadam1597@gmail.com",
+	"Contact" : "8286730972"
+});
+
+db.users.insert({
+	"_id" : ObjectId("58d23a7ed699633d92b7acda"),
+	"Username" : "Priya",
+	"FirstName" : "Riya",
+	"LastName" : "Das",
+	"Password" : "Riyadas123",
+	"Email" : "rdas@gmail.com",
+	"Contact" : "8286730972"
+});
+
+db.users.insert({
+	"_id" : ObjectId("58d3b43fd699632704b7acd9"),
+	"Username" : "Admin",
+	"FirstName" : "Kiran",
+	"LastName" : "Nambiar",
+	"Password" : "Admin1234",
+	"Email" : "admin@icmam.gov.in",
+	"Contact" : "8286730972"
+});
+
+db.users.insert({
+	"_id" : ObjectId("58db4ad0d699634f95b7acd9"),
+	"Username" : "Vijeta109",
+	"FirstName" : "Vijeta",
+	"LastName" : "Nayak",
+	"Password" : "Vijeta109",
+	"Email" : "vijeta109@gmail.com",
+	"Contact" : "8286730972"
+});
+
+db.users.insert({
+	"_id" : ObjectId("58db4b10d699631086b7acd9"),
+	"Username" : "Queenyqps",
+	"FirstName" : "Queeny",
+	"LastName" : "Srivastava",
+	"Password" : "Queeny1997",
+	"Email" : "queenyqps@gmail.com",
+	"Contact" : "8286730972"
+});
+
+db.users.insert({
+	"_id" : ObjectId("58db5163908f8e441f9eef3e"),
+	"Username" : "Stupendous",
+	"FirstName" : "Anurag",
+	"LastName" : "Nair",
+	"Password" : "Anurag1996",
+	"Email" : "anurag@gmail.com",
+	"Contact" : "9324085884"
+});
+
+db.users.insert({
+	"_id" : ObjectId("58db5163908f8e441f9eef3f"),
+	"Username" : "Manchu",
+	"FirstName" : "Sushmita",
+	"LastName" : "Manche",
+	"Password" : "Sush1996",
+	"Email" : "sush1996@gmail.com",
+	"Contact" : "8108444180"
+});
+
+db.users.insert({
+	"_id" : ObjectId("58db5163908f8e441f9eef40"),
+	"Username" : "Vani",
+	"FirstName" : "Shivani",
+	"LastName" : "Thakare",
+	"Password" : "Shivani1997",
+	"Email" : "shivani3@gmail.com",
+	"Contact" : "9167444130"
+});
+
+db.users.insert({
+	"_id" : ObjectId("58db5165908f8e441f9eef41"),
+	"Username" : "Shahana",
+	"FirstName" : "Shahana",
+	"LastName" : "Shamim",
+	"Password" : "Shahana1997",
+	"Email" : "shahana.s@gmail.com",
+	"Contact" : "9876352273"
+});
+
+db.users.insert({
+	"_id" : ObjectId("58db51c5908f8e441f9eef42"),
+	"Username" : "Kira",
+	"FirstName" : "Chetan",
+	"LastName" : "Kalra",
+	"Password" : "Chetan1996",
+	"Email" : "chetankalra11@gmail.com",
+	"Contact" : "8286730972"
+});
+
+db.users.insert({
+	"_id" : ObjectId("58db5e9dd69963b944b7acd9"),
+	"Username" : "Mishti",
+	"FirstName" : "Shweta",
+	"LastName" : "Singh",
+	"Password" : "Shweta1996",
+	"Email" : "shweta1996@gmail.com",
+	"Contact" : "9167234161"
+});

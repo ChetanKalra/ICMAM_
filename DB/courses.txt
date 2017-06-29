@@ -1,0 +1,106 @@
+db.courses.insert({
+		   "Title":"Applications of GIS in the Management of Coastal Critical Habitats",
+
+		   "Description":"The application of GIS as a tool for assessing the status of the critical habitats, such as mangroves, coral reefs, sea grass beds, wetlands and other coastal eco-systems, has revealed that more than the natural causes, the human perturbation has resulted in severe damage to these eco-systems.",
+		   "Prof_Assigned":"Dr. R. S. Kankara",
+		   "Duration":"2 weeks",
+		   "tags":["GIS","Marine"],
+		"UsersRegistered": 20,
+		"Start_Date": "March 2017",
+		"insert_date": "10/03/2017",
+		"Img_Path": "assets/Images/Coastal.jpg"
+		
+});
+
+
+db.courses.insert({"Title":"Applications of GIS in the Management of Aquatic Pollution",
+		   "Description":"The application of GIS as a tool for assessing the statistics of pollution affecting the critical habitats and other coastal eco-systems. Study the effects of pollution help us to understand the behaviour of different habitats and their side effects towards the environment.",
+		   "Prof_Assigned":"Dr. D. Mohan",
+		   "Duration": "1 weeks",
+		   "tags":["GIS","Marine","Pollution"],
+		"UsersRegistered": 10,
+		"Start_Date": "April 2015",
+		"insert_date": "10/03/2016",
+		"Img_Path": "assets/Images/GIS.png"
+
+});
+
+
+db.courses.insert({"Title":"Shoreline Management",
+		   "Description":"Shoreline Management helps us to understand the nature of tides and their effects in the mangroves and nearby areas, this course helps us to understand the habitats living in the area and interdependent habitats. It also gives information about the salinity of water which helps us to understand the amount of salts required in each ecosystems.",
+		   "Prof_Assigned":"Dr. Pravakar Mishra",
+		   "Duration":"1 weeks",
+		   "tags":["GIS","Shoreline"],
+		"UsersRegistered": 2,
+		"Start_Date": "May 2014",
+		"insert_date": "10/03/2010",
+		"Img_Path": "assets/Images/Shoreline.jpg"
+
+});
+
+db.courses.insert({"Title":"Integrated Coastal Zone Management",
+		   "Description":"This course helps to study the process for the management of the coast using an integrated approach, regarding all aspects of the coastal zone, including geographical and political boundaries, in an attempt to achieve sustainability. The dynamic processes that occur within the coastal zones produce diverse and productive ecosystems which have been of great importance historically for human populations. Coastal margins equate to only 8% of the worlds surface area but provide 25% of global productivity. Stress on this environment comes with approximately 70% of the world’s population being within a day’s walk of the coast. Two-thirds of the world’s cities occur on the coast.",
+		   "Prof_Assigned":"Dr. Sisir Kumar Dash",
+		   "Duration":"1 weeks",
+		   "tags":["GIS","Management"],
+		"UsersRegistered": 32,
+		"Start_Date": "January 2016",
+		"insert_date": "10/03/2015",
+		"Img_Path": "assets/Images/Coastal.jpg"
+
+});
+
+
+db.courses.insert({"Title":"Sediment Transport in Near Shore Areas",
+		   "Description":"This course helps to understand the interaction of coastal land forms to various complex interactions of physical processes.The primary agent in coastal sediment transport is wave activity, followed by tides and storm surge, and near shore currents. This course helps to study all the wave, tidy and all factors affecting the ecosystem.",
+		   "Prof_Assigned":"Dr. J. C. Verma",
+		   "Duration":"1 weeks",
+		   "tags":["GIS","Sediment"],
+		"UsersRegistered": 7,
+		"Start_Date": "December 2012",
+		"insert_date": "10/03/2009",
+		"Img_Path": "assets/Images/Sediment.jpg"
+
+});
+
+
+db.courses.insert({"Title":"Satellite Oceanography",
+		   "Description":"This course helps to understand different topologies of under water surfaces and weather forecasting through satellites.",
+		   "Prof_Assigned":"Dr. Dilip Sharma",
+		   "Duration":"1 weeks",
+		   "tags":["Image processing"],
+		"UsersRegistered": 11,
+		"Start_Date": "September 2011",
+		"insert_date": "10/03/2012",
+		"Img_Path": "assets/Images/Oceanography1.jpg"
+
+});
+
+db.courses.insert({"Title":"Oil spill modelling",
+		   "Description":"A primary concern during any oil spill is where it will go. By creating a thorough modelling process and expertly interpreting the results we can help protect complex marine environments. Exploring worst case scenarios, our oil spill modelling identifies resources most at risk and gives decision makers the tools they need to make informed decisions about their response strategies.",
+		   "Prof_Assigned":"Dr. Karri Ramu",
+		   "Duration":"2 weeks",
+		   "tags":["Oil","Model","Surface"],
+		"UsersRegistered": 35,
+		"Start_Date": "June 2013",
+		"insert_date": "10/03/2000",
+		"Img_Path": "assets/Images/Oil_Spill.jpg"
+
+});
+
+db.courses.insert({"Title":"Processing of Satellite data for Oceanographic Applications",
+		   "Description":"Remote sensing has got wide range of applications in the field of coastal engineering, including estimation of sea surface temperature, chlorophyll content, suspended sediment concentration, yellow substance concentration, wave characteristics, potential fishing zone (PFZ) and so on. Various satellite remote sensing data has provided raw data which can be used to monitor coastal resources.",
+		   "Prof_Assigned":"Dr. RD Verma",
+		   "Duration":"3 weeks",
+		   "tags":["Applications","Satellite"],
+		"UsersRegistered": 13,
+		"Start_Date": "October 2015",
+		"insert_date": "10/03/2014",
+		"Img_Path": "assets/Images/Oceanography.jpg"
+
+});
+
+
+
+
+

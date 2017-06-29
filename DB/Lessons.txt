@@ -1,0 +1,63 @@
+{
+	"_id" : ObjectId("58dcaa0744f047bb5a089850"),
+	"Title" : "Oil spill modelling",
+	"Lesson" : [
+		"Welcome",
+		"This course compares different hosted CMSs available today and discusses how web designers can leverage the benefits. Tips specific to hosted CMSs and for design in general are presented. These tips range from picking the right CMS, to selecting the right template and optimizing imagery.",
+		"assets/Videos/dark.mp4"
+	]
+}
+{
+	"_id" : ObjectId("58dcaa0744f047bb5a089851"),
+	"Title" : "Oil spill modelling",
+	"Lesson" : [
+		"What you will learn",
+		"This course provides you with an understanding of what a CMS is, the difference between hosted and non-hosted CMSs, benefits and limitations of a hosted CMS, things to look for in a hosted CMS, and a generic design method for designing in hosted CMS.",
+		"assets/Videos/light.mp4"
+	]
+}
+{
+	"_id" : ObjectId("58dcaa0744f047bb5a089852"),
+	"Title" : "Oil spill modelling",
+	"Lesson" : [
+		"What is CMS?",
+		"Take a look at a what a CMS is. CMS or content management systems come in many forms, including hosted and non-hosted open source CMS. In this video, gain an understanding of how a generic CMS works.",
+		"assets/Videos/dark.mp4"
+	]
+}
+{
+	"_id" : ObjectId("58dcc53e44f047bb5a089853"),
+	"Title" : "Oil spill modelling",
+	"Lesson" : [
+		"Back-Track / Hind Cast",
+		"Similar to trajectory modelling but simulates scenarios in reverse to predict where an oil spill may have originated. Ideal to investigate a spill from an unknown origin.",
+		"assets/Videos/dark.mp4"
+	]
+}
+{
+	"_id" : ObjectId("58dcc5ae44f047bb5a089854"),
+	"Title" : "Oil spill modelling",
+	"Lesson" : [
+		"Stochastic / Probability model",
+		"Demonstrates the probability of where an oil spill may impact for time periods by running a series of trajectories under various wind conditions from historic records. These outputs illustrate the waters and shorelines that are most at risk from oiling during various seasons. Primarily used for contingency planning purposes to develop a range of possible planning scenarios.",
+		"assets/Videos/dark.mp4"
+	]
+}
+{
+	"_id" : ObjectId("58dcc5b844f047bb5a089855"),
+	"Title" : "Oil spill modelling",
+	"Lesson" : [
+		"Trajectory / Deterministic model",
+		"Predicts the movement of an oil spill based on specific scenario OSIS and met-ocean conditions over time. Can be used in conjunction with in eld surveillance. Used in both response and contingency planning scenarios.",
+		"assets/Videos/dark.mp4"
+	]
+}
+{
+	"_id" : ObjectId("58dcdf32d699634887b7acda"),
+	"Title" : "Oil spill modelling",
+	"Lesson" : [
+		"Surface Modelling",
+		"Models an oil spill that originates from the sea surface.",
+		"assets/Videos/Lifehouse---Take-Me-Away.mp4"
+	]
+}

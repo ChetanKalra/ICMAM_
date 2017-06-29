@@ -1,0 +1,8 @@
+Training Programmes:
+
+1. Image path: Done
+2. Edit function: Done
+3. Form css
+4. onclick lessons.php: Done
+5. Upload Images: Done
+6. Edit Image: 
